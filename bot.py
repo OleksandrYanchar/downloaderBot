@@ -6,6 +6,6 @@ bot = telebot.TeleBot(TOKEN)
 @bot.message_handler(func=lambda message: True)
 def echo(message):
     bot.reply_to(message, message.text)
-
+    #sdfsdf
 # Запуск бота
 bot.polling()
