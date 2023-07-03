@@ -1,0 +1,4 @@
+greetings = ['hello',
+             'allo',
+             'ky'
+             ]
